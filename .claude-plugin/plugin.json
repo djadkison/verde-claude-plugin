@@ -1,0 +1,28 @@
+{
+  "name": "verde",
+  "displayName": "Verde",
+  "version": "1.0.0",
+  "description": "Shared, permission-aware memory for teams and their AI: recall decisions and their history, save durable knowledge, keep it current, and publish approved pages.",
+  "author": {
+    "name": "Verde",
+    "email": "hello@getverde.ai",
+    "url": "https://www.getverde.ai"
+  },
+  "homepage": "https://www.getverde.ai",
+  "repository": "https://github.com/djadkison/verde-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "knowledge-base",
+    "team-knowledge",
+    "documentation",
+    "decisions",
+    "notes",
+    "wiki"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.getverde.ai/faq",
+  "supportUrl": "https://www.getverde.ai/support",
+  "privacyPolicyUrl": "https://www.getverde.ai/privacy",
+  "termsOfServiceUrl": "https://www.getverde.ai/terms"
+}

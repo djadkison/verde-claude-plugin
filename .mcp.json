@@ -1,0 +1,6 @@
+{
+  "verde": {
+    "type": "http",
+    "url": "https://www.getverde.ai/api/mcp"
+  }
+}

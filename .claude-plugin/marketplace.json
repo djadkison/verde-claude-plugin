@@ -1,0 +1,15 @@
+{
+  "name": "verde",
+  "description": "Verde's plugin for Claude: the Verde connector and the verde-memory skill.",
+  "owner": {
+    "name": "Verde",
+    "email": "hello@getverde.ai"
+  },
+  "plugins": [
+    {
+      "name": "verde",
+      "source": "./",
+      "description": "Shared, permission-aware memory for teams and their AI: recall decisions and their history, save durable knowledge, keep it current, and publish approved pages."
+    }
+  ]
+}
